@@ -22,3 +22,6 @@ Prior information or result validation:
 1, based on all the expression data to infer one density network as a prior network, or prior given zeros edges which would be decreasing the computational complexity.
 2, use well-build database as prior networks, such as, COEXPRESdb and TS-CoExp
 
+
+Main idea: see report 11_3 and 10_27 slides
+
